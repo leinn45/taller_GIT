@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            
-            int num;
+
+            string color = "amarillo";
             int num1;
             Console.WriteLine("ingrese un numero");
-         
+            Console.WriteLine(color);
 
         }
     }
