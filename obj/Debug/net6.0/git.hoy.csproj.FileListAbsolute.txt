@@ -1,0 +1,15 @@
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\bin\Debug\net6.0\git.hoy.exe
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\bin\Debug\net6.0\git.hoy.deps.json
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\bin\Debug\net6.0\git.hoy.runtimeconfig.json
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\bin\Debug\net6.0\git.hoy.dll
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\bin\Debug\net6.0\git.hoy.pdb
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.csproj.AssemblyReference.cache
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.AssemblyInfoInputs.cache
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.AssemblyInfo.cs
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.csproj.CoreCompileInputs.cache
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.dll
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\refint\git.hoy.dll
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.pdb
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\git.hoy.genruntimeconfig.cache
+C:\Users\Usuariocc\source\repos\git.hoy\git.hoy\obj\Debug\net6.0\ref\git.hoy.dll
